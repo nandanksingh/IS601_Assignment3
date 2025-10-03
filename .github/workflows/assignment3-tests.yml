@@ -35,4 +35,4 @@ jobs:
 
       - name: Run tests with coverage
         run: |
-          pytest Assignment3/tests --cov=app --cov-fail-under=100 --cov-report=term-missing
+          pytest tests --cov=app --cov-fail-under=100 --cov-report=term-missing
