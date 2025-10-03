@@ -14,6 +14,9 @@ Key features:
 
 ## Setup
 1. Clone the repository:
+   ```bash
+   git clone <repo-url>
+   cd IS601-Fall2025/Assignment3
 2. Create and activate a virtual environment
 3. Install dependencies
 
